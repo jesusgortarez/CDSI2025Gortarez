@@ -1,0 +1,28 @@
+#Ignorar archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de compilación
+*.class
+*.o
+*.so
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos temporales
+*.tmp
+*.swp
+
+# Ignorar directorios específicos
+/node_modules
+/dist
+/build
+
+# Ignorar archivos de configuración personal
+.env
+.vscode/
+
+# Ignorar archivos de gran tamaño
+Audio_Speech_Actors_01-24.zip
+Audio_Speech_Actors_01-24/
