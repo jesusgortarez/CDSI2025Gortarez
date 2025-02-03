@@ -23,6 +23,9 @@ Thumbs.db
 .env
 .vscode/
 
+
+
 # Ignorar archivos de gran tamaño
 Audio_Speech_Actors_01-24.zip
 Audio_Speech_Actors_01-24/
+DataSet/
